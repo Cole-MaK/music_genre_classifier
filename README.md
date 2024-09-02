@@ -16,3 +16,9 @@ CLIENT_ID = '{your client id}'
 CLIENT_SECRET = '{your client secret}'
 
 REDIRECT_URI = '{http://localhost:8080}'
+
+## music_genre_classifier.ipynb
+Used to visualize, preprocess, train, test, analyze the model
+
+## test_classifier.ipynb
+Used to test the model by importing your model and inputing in a 30second audio file that is spliced using *audio_splice.py*
